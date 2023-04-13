@@ -22,7 +22,7 @@ while(isNaN(question2)){
 if(question2 == 1) {
 
     var img = document.createElement("img");
-    img.src = "./img/jon_snow.png";
+    img.src = "./img/Jon_Snow.jpg";
     var src = document.getElementById("header");
     src.appendChild(img);
 } else if(question2 == 2) {
